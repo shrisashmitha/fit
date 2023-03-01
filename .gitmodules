@@ -1,0 +1,6 @@
+[submodule "sashmitha"]
+	path = sashmitha
+	url = https://github.com/shrisashmitha/sashmitha.git
+[submodule "sub"]
+	path = sub
+	url = C:/Program Files/Git/sub
